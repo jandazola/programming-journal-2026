@@ -6,4 +6,5 @@ Hi! My name is Josh Andazola. In 2023 I graduated with degrees in Accounting and
 
 # Contact
 If you have questions, comments, or feedback on the work I've done--or are also interested in the intersection of Accounting and Technology--feel free to reach out:
-jemandazola@gmail.com
+email: jemandazola@gmail.com
+linkedin: https://www.linkedin.com/in/joshua-andazola-73061a23a/
