@@ -1,0 +1,4 @@
+Week 3 notes
+1) Dunder variables (short for "double underscore" variables) are special variables assigned by Python in the background that have two underscores on either side of its name (i.e., __name__, __file__). The purpose of the double scores is to delineate these from other variable names.
+2) The dunder variable __name__ determines if a script is being run as the main program (which sets the value to "__main__") or imported as a module (which sets the value to its module/file name).
+3) The dunder variable __file__ contains the path to the Python file being executed or imported.
